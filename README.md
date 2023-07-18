@@ -1,7 +1,7 @@
 # Learning-Bayesian-Network-Model-Structure-from-Data
 Learning Bayesian Networks from both the datasets : Wine and Titanic
 
-Disclaimer : This project is done in pairs! 
+Disclaimer : This project is done in pairs for an academic project! 
 
 This project aims to construct bayesian networks from the "Wine" and "Titanic" datasets, and
 foster further understanding of bayesian network structure learning.
